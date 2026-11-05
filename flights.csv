@@ -1,0 +1,4 @@
+FlightNo,Origin,Destination,Seats,Fare
+A1101,Raipur,Delhi,5,6000
+A1202,Raipur,Mumbai,2,5500
+A1303,Delhi,Mumbai,0,4800
